@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+
+https://github.com/adityayadav2409/Centra_Assignment/assets/146120442/9bda4cac-006d-4e26-b0a6-b2df9e8f5789
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
